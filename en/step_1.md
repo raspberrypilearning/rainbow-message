@@ -29,7 +29,7 @@ Optional:
 ### Try it
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-Notice how colour has been used to create the greeting.
+Can you spot the two different ways that text has been displayed in this project?
 </div>
 </div>
 <div class="trinket">
