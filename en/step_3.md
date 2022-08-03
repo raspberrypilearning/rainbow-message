@@ -5,7 +5,7 @@
 In this step, you will display the other characters in the word `Welcome` using different rainbow colours. 
 </div>
 <div>
-![A screenshot of what will be achieved by the end of this step.](images/step_three_output.PNG){:width="300px"}
+![An animation of what will be achieved by the end of this step.](images/welcome.gif){:width="300px"}
 </div>
 </div>
 
@@ -144,7 +144,7 @@ sleep(1)
 
 For example, for the letter `e` you could change the colours from `violet` and `red` to `indigo` and `blue`.
 
-Before:
+**Before:**
 
 --- code ---
 ---
@@ -157,7 +157,7 @@ line_highlights:
 sense.show_letter("e", violet, red)
 --- /code ---
 
-After:
+**After:**
 
 --- code ---
 ---
