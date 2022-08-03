@@ -142,6 +142,8 @@ line_highlights: 22
 sense.show_letter("W", red, blue) # Display the letter W with red text and a blue background
 --- /code ---
 
+**Tip**: You can choose different text and background colours by replacing `red, blue` with the other variable names in the colour palette. 
+
 --- /task ---
 
 --- task ---
