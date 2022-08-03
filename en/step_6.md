@@ -17,7 +17,7 @@ You could:
 
 --- /task ---
 
-### Click Run to see an example upgrade project
+**Click Run to see an example upgrade project**
 
 <div class="trinket">
 <iframe src="https://trinket.io/embed/python/c04a6c3315?outputOnly=true&runOption=run" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
