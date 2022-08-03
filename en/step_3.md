@@ -140,7 +140,7 @@ sleep(1)
 
 --- task ---
 
-**Choose**: You can choose different colours from the rainbow colour palette for the text colour and background colour of each letter. 
+**Choose**: You can choose different colours from the rainbow colour palette for the text and background colour of each letter. 
 
 For example, for the letter `e` you could change the colours from `violet` and `red` to `indigo` and `blue`.
 
