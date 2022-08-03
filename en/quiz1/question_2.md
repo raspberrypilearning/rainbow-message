@@ -52,12 +52,6 @@ Almost! This is the correct code snippet to use but you need to specify how many
 
   --- /feedback ---
 
-- ( ) 
-
-  --- feedback ---
-
-  --- /feedback ---
-
 --- /choices ---
 
 --- /question ---
