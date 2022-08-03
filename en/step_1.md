@@ -26,7 +26,7 @@ Optional:
 
 --- no-print ---
 --- task ---
-### Try it
+### Click run and try it!
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
 Can you spot the two different ways that text has been displayed in this project?
