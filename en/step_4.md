@@ -121,7 +121,7 @@ sense.show_message(message, scroll_speed, text_colour, back_colour) # Scroll the
 
 If you were using a physical SenseHAT then your project might require that you place the Raspberry Pi computer upside down or on its side. For this situation, you would need to rotate the display so that the text could be read correctly. 
 
-<mark>Do we have an image for this that can be used to make it clearer?</mark>
+![An image of a rotated Raspberry Pi SenseHAT.](images/rotate-pi.png){:width="300px"}
 
 --- task ---
 

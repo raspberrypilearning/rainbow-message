@@ -12,7 +12,7 @@ You could:
 + Create some new colour variables for your colour palette and use them with your message
 + Try different scroll speeds
 + Try different values inside the brackets for the `sleep(1)` function
-+ Rotate each letter in the word `Welcome` by using the `sense.set_rotation(0)` before each one
++ Rotate each letter in the word `Welcome` by using `sense.set_rotation(0)` before each one
 + Add an additional message to the end
 
 --- /task ---
