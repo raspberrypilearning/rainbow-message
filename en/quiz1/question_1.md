@@ -1,6 +1,6 @@
 ## Reflection
 
-Well done, you have learned a lot! Now it's time to reflect - reflecting is an important part of learning because it helps make new connections in your brain.
+Well done, you created a rainbow message! Now it's time to reflect on what you have discovered about to code the SenseHAT.
 
 Answer the three questions below to reflect on what you've learned.
 
@@ -14,30 +14,23 @@ Have fun!
 legend: Question 1 of 3
 ---
 
+A young creator has set their `scroll_speed` to `0.5` but they think that this is too slow. Which value should they use to make the message scroll faster?
 
 --- choices ---
 
-- ( )
+- ( ) `scroll_speed = 1`
 
   --- feedback ---
+
+Not quite! By setting the `scroll_speed` to one, the message will scroll at a slower speed. This is because it moves 1 second at a time. 
 
   --- /feedback ---
 
-- ( )
+- (x) `scroll_speed = 0.1`
 
   --- feedback ---
 
-  --- /feedback ---
-
-- (x) 
-
-  --- feedback ---
-
-  --- /feedback ---
-
-- ( ) 
-
-  --- feedback ---
+Correct! `0.1` is a lower number than `0.5` so the scroll speed will be much faster with this number. The text will move along every 0.1 seconds. 
 
   --- /feedback ---
 
