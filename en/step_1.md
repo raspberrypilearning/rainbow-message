@@ -18,11 +18,15 @@ An <span style="color: #0faeb0">**LED matrix**</span> is grid of LEDs that can b
 </p>
 
 You will need:
-+ A web browser
++ A web browser for the SenseHAT emulator
+
+[[[rpi-sensehat-emulator]]]
 
 Optional:
 + A Raspberry Pi computer
 + A SenseHAT
+
+[[[rpi-sensehat-attach]]]
 
 --- no-print ---
 --- task ---
