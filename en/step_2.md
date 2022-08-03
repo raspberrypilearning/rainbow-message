@@ -25,7 +25,9 @@ The SenseHAT uses a **library** of code that needs to be imported into your prog
 
 --- task ---
 
-On line 3, enter the code `from sense_hat import SenseHat`. This will import the code from the `sense_hat` library.
+Find the comment `# Import the libraries`.
+
+Enter the code `from sense_hat import SenseHat`. This will import the code from the `sense_hat` library.
 
 --- code ---
 ---
@@ -47,7 +49,9 @@ from sense_hat import SenseHat
 
 --- task ---
 
-On line 7, enter the code `sense = SenseHat()`. This will set up your SenseHat.
+Find the comment `# Set up the SenseHAT`.
+
+Enter the code `sense = SenseHat()`. This will set up your SenseHat.
 
 --- code ---
 ---
