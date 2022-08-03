@@ -31,9 +31,9 @@ Optional:
 <div style="flex-basis: 175px; flex-grow: 1">  
 Notice how colour has been used to create the greeting.
 </div>
-<div>
-<iframe src="https://trinket.io/embed/html/5412a2e393?outputOnly=true" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
+<div class="trinket">
+<iframe src="https://trinket.io/embed/python/5412a2e393?outputOnly=true&runOption=run" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 --- /task ---
 --- /no-print ---
