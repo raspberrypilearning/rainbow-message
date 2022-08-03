@@ -1,34 +1,43 @@
 ## Introduction
 
-In this project, <mark> short project description </mark>
-
-<mark>Boxout (wherever wanted/needed) </mark>
+In this project, you will create a personalised rainbow coloured greeting on your Raspberry Pi Sense HAT. 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Term**</span> description of term or interesting phrase.
+A <span style="color: #0faeb0">**SenseHAT**</span> is an add-on board designed by Raspberry Pi Limited as an environmental sensor and display. There are currently two Raspberry Pi SenseHATs, within the [Astro Pi](https://astro-pi.org/){:target="_blank"} Flight Units, on the International Space Station. Young people all over the world can run their code in space as part of the AstroPi programme!
 </p>
 
-<mark>Objectives in language that learners will understand</mark>
+![The Astro Pi flight unit.](images/flight_unit.jpg){:width="300px"}
 
 You will:
-+ 
-+ 
-+ 
++ Scroll a message across an **LED matrix**
++ Change the colour of the **LEDs** to produce a rainbow effect
++ Adjust the **speed** of how the message is displayed
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+An <span style="color: #0faeb0">**LED matrix**</span> is grid of LEDs that can be controlled individually or as a group to create different lighting effects. The LED matrix on the SenseHAT has 64 LEDs displayed in an 8 x 8 grid. The LEDs can be programmed to produce a wide range of colours.
+</p>
+
+You will need:
++ A web browser
+
+Optional:
++ A Raspberry Pi computer
++ A SenseHAT
 
 --- no-print ---
 --- task ---
 ### Try it
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-Description of what to do or think about when looking at the example.
+Notice how colour has been used to create the greeting.
 </div>
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
+<div>
+<iframe src="https://trinket.io/embed/html/5412a2e393?outputOnly=true" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 </div>
 --- /task ---
 --- /no-print ---
 
 --- print-only ---
-![Completed project](images/showcase_static.png)
+![Completed project](images/solution.PNG)
 --- /print-only ---
