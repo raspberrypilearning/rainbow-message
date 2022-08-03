@@ -13,7 +13,7 @@ In this step, you will use the scrolling function to scroll your name across the
 
 The SenseHAT library has a function that you can use to **scroll a message** across the screen. 
 
-Before you use create your scrolling message it is helpful to decide the text colour, background colour and scroll speed that you would like to use. 
+Before you create your scrolling message it is helpful to decide the text colour, background colour and scroll speed that you would like to use. 
 
 --- task ---
 
@@ -119,7 +119,7 @@ sense.show_message(message, scroll_speed, text_colour, back_colour) # Scroll the
 
 ### Rotating the SenseHATs LED display
 
-If you were using a physical SenseHAT then your project might require that you place the Raspberry Pi computer upside down or on its side. For this situation, you would need to rotate the display so that it the text could be read correctly. 
+If you were using a physical SenseHAT then your project might require that you place the Raspberry Pi computer upside down or on its side. For this situation, you would need to rotate the display so that the text could be read correctly. 
 
 <mark>Do we have an image for this that can be used to make it clearer?</mark>
 
@@ -155,7 +155,7 @@ sense.set_rotation(180)
 
 --- task ---
 
-**Try**: Try entering either `0`, `90` or `270` in between the brackets to see the different ways your message can be displayed. 
+**Try**: Try entering either `0`, `90` or `270` in between the brackets of `sense.set_rotation(180)` to see the different ways your message can be displayed. 
 
 --- /task ---
 
