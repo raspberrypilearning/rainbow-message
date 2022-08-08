@@ -8,19 +8,17 @@ A <span style="color: #0faeb0">**SenseHAT**</span> is an add-on board for the Ra
 
 ![A SenseHAT being added to a Raspberry Pi computer.](images/animated_sense_hat.gif){:width="300px"}
 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+An <span style="color: #0faeb0">**emulator**</span> is a computer program that behaves like a physical device without the user needing to have that device. The SenseHAT emulator allows you to test how your code would work on a physical SenseHAT.  
+</p>
+
 You will:
-+ Scroll a message across an **LED matrix**
++ Scroll a message across the SenseHAT **LEDs**
 + Change the colour of the **LEDs** to produce a rainbow effect
 + Adjust the **speed** of how the message is displayed
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-An <span style="color: #0faeb0">**LED matrix**</span> is a grid of LEDs that can be controlled individually or as a group to create different lighting effects. The LED matrix on the SenseHAT has 64 LEDs displayed in an 8 x 8 grid. The LEDs can be programmed to produce a wide range of colours.
-</p>
-
 You will need:
 + A web browser for the SenseHAT emulator
-
-[[[rpi-sensehat-emulator]]]
 
 Optional:
 + A Raspberry Pi computer
