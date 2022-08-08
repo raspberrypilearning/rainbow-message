@@ -43,7 +43,7 @@ To call the sleep function in your code you use `sleep(1)`. The number inside th
 
 --- task ---
 
-Find the code that displays the letter `W` on your SenseHAT. 
+Find the code that displays the letter `W` using red text and a blue background on your SenseHAT. 
 
 Underneath, enter the code `sleep(1)`.
 
@@ -100,6 +100,19 @@ sense.show_letter("e", orange, indigo)
 
 --- task ---
 
+**Debug**:
+
+I get the error message `sleep is not defined`.
++ Make sure that you have added the line of code `from time import sleep` to import the `sleep` function from the `time` library
+
+My SenseHAT is displaying blue text with a red background, the colours have swapped around. 
++ Check that you have entered your colours in the correct order. It should look like this `sense.show_letter("W", red, blue)`
+
+--- /task ---
+
+
+--- task ---
+
 Repeat the same code for each letter of the `Welcome` message. Remember to change the letter and the colours used for the text and the background.
 
 --- code ---
@@ -135,6 +148,15 @@ sleep(1)
 **Test** your code by clicking on the **Run** button. You should see each letter of the word `Welcome` appearing on the LED matrix. 
 
 ![A short animation showing the letters from the word Welcome appearing on the SenseHAT.](images/welcome.gif){:width="300px"}
+
+--- /task ---
+
+--- task ---
+
+**Debug:** 
+
+One of the letters is missing. 
++ Make sure that there is a `sleep(1)` line after that letter to pause the code for `1` second - long enough for you to see the letter.
 
 --- /task ---
 

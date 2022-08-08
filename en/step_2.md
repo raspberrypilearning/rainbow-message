@@ -17,10 +17,10 @@ Open the [rainbow message starter project](https://trinket.io/html/bcf1978d5a){:
 
 --- /task ---
 
-The SenseHAT uses a **library** of code that needs to be imported into your program. 
+The SenseHAT uses the Python programming language and a **library** of code that needs to be imported into your program. 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Libraries**</span> are code blocks that have been made to perform a group of tasks for a particular purpose. They allow programmers to share common programming solutions. The SenseHAT library has modules of code that allow programmers to interact with the sensors and the LED matrix on the SenseHAT.
+A <span style="color: #0faeb0">**library**</span> allows you to easily use code that other people have written. There are libraries for drawing charts and graphs, making art, doing calculations, and lots more. The SenseHAT library has modules of code that allow programmers to interact with the sensors and the LEDs on the SenseHAT.
 </p>
 
 --- task ---
@@ -76,17 +76,30 @@ sense = SenseHat()
 
 --- task ---
 
-**Test** your code by clicking on **Run**. You should see the SenseHAT emulator on the right hand side. 
+**Test** If you are using the SenseHAT emulator, click **Run**. You should see the SenseHAT emulator appear on the right hand side. 
 
 ![A screenshot of the SenseHAT emulator in Trinket.](images/setup-sensehat.PNG){:width="300px"}
 
-**Tip**: If you are using a physical SenseHAT then this step isn't needed. 
+--- /task ---
+
+--- task ---
+
+**Debug**: 
+
+My code has a syntax error!
++ Make sure that you code matches the code in the examples given above
++ Check that you have spelled `sense_hat`, `SenseHAT` and `sense` correctly. Capital letters and lowercase letters are important
++ Check that `sense = SenseHAT()` has two brackets at the end
 
 --- /task ---
 
 ### Set up your colour palette
 
-You can use **variables** to store the RGB values for the colours that you wish to use in your project. A **variable** is a name given to a piece of data in your program. The data held under that variable name can change throughout the running of the code. 
+You can use **variables** to store the RGB values for the colours that you wish to use in your project.
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+A <span style="color: #0faeb0">**variable**</span> is used to store text or numbers. Variables make it easier for humans to read code. You can use the same variable in lots of places in your code and the data held under that variable name can change throughout the running of the code.
+</p>
 
 --- task ---
 
@@ -121,7 +134,11 @@ violet = (238, 130, 238)
 
 ### Display a single character
 
-Your rainbow message is going to start with the word `Welcome`. You are now going to display the first letter of this word to test your colour palette.
+Your rainbow message will appear on the **LED Matrix** of the SenseHAT. The first part of the message says `Welcome`. You are now going to display the first letter of this word to test your colour palette.
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+An <span style="color: #0faeb0">**LED matrix**</span> is a grid of LEDs that can be controlled individually or as a group to create different lighting effects. The LED matrix on the SenseHAT has 64 LEDs displayed in an 8 x 8 grid. The LEDs can be programmed to produce a wide range of colours.
+</p>
 
 --- task ---
 
@@ -134,15 +151,13 @@ Enter the code `sense.show_letter("W", red, blue)` to display the letter `W` usi
 language: python
 filename: main.py
 line_numbers: true
-line_number_start: 20
-line_highlights: 22
+line_number_start: 19
+line_highlights: 21
 ---
 # Welcome in rainbow colours
 
 sense.show_letter("W", red, blue) # Display the letter W with red text and a blue background
 --- /code ---
-
-**Tip**: You can choose different text and background colours by replacing `red, blue` with the other variable names in the colour palette. 
 
 --- /task ---
 
@@ -151,6 +166,15 @@ sense.show_letter("W", red, blue) # Display the letter W with red text and a blu
 **Test** your code by clicking on the **Run** button. You should see a letter `W` with red text and a blue background. 
 
 ![A screenshot of what will be achieved by the end of this step.](images/step_two_output.PNG){:width="300px"}
+
+--- /task ---
+
+--- task ---
+
+**Debug**: 
+
+My code has a syntax error!
++ Make sure that you code matches the code in the examples given above
 
 --- /task ---
 

@@ -1,10 +1,10 @@
 ## Reflection
 
-Well done, you created a rainbow message! Now it's time to reflect on what you have discovered about to code the SenseHAT.
+Well done, you created a rainbow message! Now it's time to reflect on what you have discovered to code the SenseHAT.
 
 Answer the three questions below to reflect on what you've learned.
 
-After each question, press submit. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+After each question, press 'Check my answer'. You will be guided towards the correct answer. You can do this activity as many times as you want to.
 
 Have fun!
 

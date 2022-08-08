@@ -7,13 +7,17 @@ If you would like to extend your project further then you can use some of the id
 
 --- task ---
 
-You could:
+You could and an additional message to the end or change your existing message.
 
-+ Create some new colour variables for your colour palette and use them with your message
+Change the speed:
 + Try different scroll speeds
-+ Try different values inside the brackets for the `sleep(1)` function
++ Try different `sleep()` values
+
+Enhance your message: 
 + Rotate each letter in the word `Welcome` by using `sense.set_rotation(0)` before each one
-+ Add an additional message to the end
++ Create some new colour variables for your colour palette and use them with your message
+
+[[[generic-theory-simple-colours]]]
 
 --- /task ---
 
