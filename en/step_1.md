@@ -1,12 +1,12 @@
 ## Introduction
 
-In this project, you will create a personalised rainbow coloured greeting on your Raspberry Pi Sense HAT. 
+In this project, you will create a personalised rainbow coloured welcome message using a Raspberry Pi SenseHAT or the Raspberry Pi SenseHAT emulator.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**SenseHAT**</span> is an add-on board designed by Raspberry Pi Limited as an environmental sensor and display. There are currently two Raspberry Pi SenseHATs, within the [Astro Pi](https://astro-pi.org/){:target="_blank"} Flight Units, on the International Space Station. Young people all over the world can run their code in space as part of the AstroPi programme!
+A <span style="color: #0faeb0">**SenseHAT**</span> is an add-on board for the Raspberry Pi Computer that can sense and display data from the world around it. The SenseHAT is used to explore local environments, or monitor environments at a distance - there are SenseHATs collecting data around the Earth and even some in [space](https://astro-pi.org/){:target="_blank"}!
 </p>
 
-![The Astro Pi flight unit.](images/flight_unit.jpg){:width="300px"}
+![A SenseHAT being added to a Raspberry Pi computer.](images/animated_sense_hat.gif){:width="300px"}
 
 You will:
 + Scroll a message across an **LED matrix**
