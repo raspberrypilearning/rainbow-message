@@ -15,6 +15,26 @@ In this step, you will set up your SenseHAT and create a colour palette for your
 
 Open the [rainbow message starter project](https://trinket.io/html/bcf1978d5a){:target="_blank"}.
 
+
+--- collapse ---
+---
+title: Copying a starter project to run on your Raspberry Pi
+---
+
+Open the [starter project](https://trinket.io/html/388a90e4b6){:target="_blank"} as normal.
+
+Click into the Trinket script editor and press `Ctrl + A` on the keyboard to select all the text. 
+
+Press `Ctrl + C` to copy your selection.
+
+Open a new window in Thonny on your Raspberry Pi.
+
+Press `Ctrl + V` to paste your selection into the new Thonny window.
+
+Save your work in Thonny by pressing `Ctrl + S` and entering a file name. 
+
+--- /collapse ---
+
 --- /task ---
 
 The SenseHAT uses the Python programming language and a **library** of code that needs to be imported into your program. 
