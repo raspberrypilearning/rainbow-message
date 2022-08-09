@@ -14,8 +14,8 @@ An <span style="color: #0faeb0">**emulator**</span> is a computer program that b
 
 You will:
 + Scroll a message across the SenseHAT **LEDs**
-+ Change the colour of the **LEDs** to produce a rainbow effect
-+ Adjust the **speed** of how the message is displayed
++ Customise the **colour** and **speed** of your message
++ Adjust the **rotation** of the LED display
 
 You will need:
 + A web browser for the SenseHAT emulator
