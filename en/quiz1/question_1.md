@@ -14,23 +14,39 @@ Have fun!
 legend: Question 1 of 3
 ---
 
-A young creator has set their `scroll_speed` to `0.5` but they think that this is too slow. Which value should they use to make the message scroll faster?
+A young creator has managed to make their message scroll across the LED matrix, but the writing is appearing upside-down! Which command should they use to correct this?
 
 --- choices ---
 
-- ( ) `scroll_speed = 1`
+- ( ) `sense.set_rotation(0)`
 
   --- feedback ---
 
-Not quite! By setting the `scroll_speed` to one, the message will scroll at a slower speed. This is because it moves 1 second at a time. 
+Not quite! By setting the `rotation` to zero, the message will show exactly the same way. This is because the angle of display has not changed from the default value of `0`. 
 
   --- /feedback ---
 
-- (x) `scroll_speed = 0.1`
+- (x) `sense.set_rotation(180)`
 
   --- feedback ---
 
-Correct! `0.1` is a lower number than `0.5` so the scroll speed will be much faster with this number. The text will move along every 0.1 seconds. 
+Correct! Setting the `rotation` to `180` will display the writing upside-down compared to the default setting. 
+
+  --- /feedback ---
+
+- ( ) `sense.set_rotation(90)`
+
+  --- feedback ---
+
+Not quite! By setting the `rotation` to `90`, the message will show sideways from bottom to top. This is because the angle of display has been rotated a quarter turn from the default value of `0`. 
+
+  --- /feedback ---
+
+- ( ) `sense.set_rotation(270)`
+
+  --- feedback ---
+
+Not quite! By setting the `rotation` to `270`, the message will show sideways from top to bottom. This is because the angle of display has been rotated three-quarters of a turn from the default value of `0`. 
 
   --- /feedback ---
 

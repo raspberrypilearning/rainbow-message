@@ -7,7 +7,9 @@ If you would like to extend your project further then you can use some of the id
 
 --- task ---
 
-You could and an additional message to the end or change your existing message.
+You could:
+
+Add an additional message to the end or change your existing message.
 
 Change the speed:
 + Try different scroll speeds
