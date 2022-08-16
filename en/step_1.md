@@ -17,15 +17,6 @@ You will:
 + Customise the **colour** and **speed** of your message
 + Adjust the **rotation** of the LED display
 
-You will need:
-+ A web browser for the SenseHAT emulator
-
-Optional:
-+ A Raspberry Pi computer
-+ A SenseHAT
-
-[[[rpi-sensehat-attach]]]
-
 --- no-print ---
 --- task ---
 ### Click Run and try it
@@ -43,3 +34,12 @@ Can you spot the two different ways that text has been displayed in this project
 --- print-only ---
 ![Completed project](images/solution.PNG)
 --- /print-only ---
+
+You will need:
++ A web browser for the SenseHAT emulator
+
+Optional:
++ A Raspberry Pi computer
++ A SenseHAT
+
+[[[rpi-sensehat-attach]]]
