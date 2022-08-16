@@ -1,11 +1,6 @@
 ## Upgrade your project
 
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 If you would like to extend your project further then you can use some of the ideas listed below. 
-</div>
-</div>
-
 
 --- task ---
 
