@@ -38,5 +38,3 @@ title: Completed project
 You can view the [completed project here](https://trinket.io/library/trinkets/5412a2e393){:target="_blank"}.
 
 --- /collapse ---
-
---- save ---
