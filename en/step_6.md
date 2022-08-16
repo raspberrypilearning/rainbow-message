@@ -35,8 +35,6 @@ Enhance your message:
 title: Completed project
 ---
 
-You can view the [completed project here](https://trinket.io/library/trinkets/5412a2e393){:target="_blank"}.
+You can view the [completed project here](https://trinket.io/python/5412a2e393){:target="_blank"}.
 
 --- /collapse ---
-
---- save ---
