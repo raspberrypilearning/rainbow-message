@@ -4,12 +4,8 @@
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 If you would like to extend your project further then you can use some of the ideas listed below. 
 </div>
-  
-**Click Run to see an example upgrade project**
-
-<div class="trinket">
-<iframe src="https://trinket.io/embed/python/c04a6c3315?outputOnly=true&runOption=run" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
+
 
 --- task ---
 
@@ -29,6 +25,12 @@ Enhance your message:
 
 --- /task ---
 
+**Click Run to see an example upgrade project**
+
+<div class="trinket">
+<iframe src="https://trinket.io/embed/python/c04a6c3315?outputOnly=true&runOption=run" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</div>
+  
 --- collapse ---
 
 ---
