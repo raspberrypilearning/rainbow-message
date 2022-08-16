@@ -6,16 +6,14 @@ If you are following the [Intro to SenseHAT](https://projects.raspberrypi.org/en
 
 <mark>To follow</mark>
 
-![alt=""](images/surprise-egg.PNG)
+![The SenseHAT emulator with an image of a chick in a shell on the LED matrix.](images/surprise-egg.png)
 
 --- /print-only ---
 
 --- no-print ---
 
-<mark>To follow</mark>
-
 <div class="trinket">
-<iframe src="https://trinket.io/embed/python/c04a6c3315?outputOnly=true&runOption=run" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python/d58edb5472?outputOnly=true&runOption=run" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 
 --- /no-print ---
