@@ -1,6 +1,6 @@
 ## What next?
 
-If you are following the [Intro to SenseHAT](https://projects.raspberrypi.org/en/raspberrypi/sense-intro) path, you can move on to the [Surprise egg](https://projects.raspberrypi.org/en/projects/surprise-egg) project. In this project, you will make an animation of an egg hatching to reveal a cute pet inside.
+If you are following the [Intro to SenseHAT](https://projects.raspberrypi.org/en/raspberrypi/sense-hat-intro) path, you can move on to the [Surprise egg](https://projects.raspberrypi.org/en/projects/surprise-egg) project. In this project, you will make an animation of an egg hatching to reveal a cute pet inside.
 
 --- print-only ---
 
